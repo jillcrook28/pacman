@@ -1,7 +1,5 @@
 # pacman
-Pacman Game
-
-Pacman
+Pacman Movement
 
 This is a visual Pacman code that is mostly Javascript. It uses an image of Pacman to chomp around the screen
 
