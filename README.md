@@ -1,7 +1,7 @@
 # pacman
 Pacman Movement
 
-This is a visual Pacman code that is mostly Javascript. It uses an image of Pacman to chomp around the screen
+This Pacman project was created using mostly Javascript! It uses an image of Pacman to chomp around the screen, and turn around when it hits the edge of the screen.
 
 How to Run: Download the files and pull out the index.html file into a browser to see it move!
 
